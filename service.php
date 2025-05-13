@@ -17,7 +17,7 @@
         <img src="assets/img/footer_logo.svg" alt="Logo">
       </a>
       <div class="cs-side_header_box">
-        <h2 class="cs-side_header_heading">Do you have a project in your <br> mind? Keep connect us. </h2>
+        <h2 class="cs-side_header_heading">Do you have a project in your <br> mind? Keep connect us.</h2>
       </div>
       <div class="cs-side_header_box">
         <h3 class="cs-side_header_title cs-primary_color">Contact Us</h3>
@@ -38,7 +38,7 @@
             <svg width="14" height="20" viewBox="0 0 14 20" fill="none" xmlns="http://www.w3.org/2000/svg">
               <path d="M7 0C3.13 0 0 3.13 0 7C0 12.25 7 20 7 20C7 20 14 12.25 14 7C14 3.13 10.87 0 7 0ZM7 9.5C5.62 9.5 4.5 8.38 4.5 7C4.5 5.62 5.62 4.5 7 4.5C8.38 4.5 9.5 5.62 9.5 7C9.5 8.38 8.38 9.5 7 9.5Z" fill="#FF4A17" />
             </svg>
-            <span>50 Wall Street Suite, 44150 <br>Ohio, United States </span>
+            <span>50 Wall Street Suite, 44150 <br>Ohio, United States</span>
           </li>
         </ul>
       </div>
@@ -47,9 +47,7 @@
         <div class="cs-newsletter cs-style1">
           <form action="#" class="cs-newsletter_form">
             <input type="email" class="cs-newsletter_input" placeholder="example@gmail.com">
-            <button class="cs-newsletter_btn">
-              <span>Send</span>
-            </button>
+            <button class="cs-newsletter_btn"><span>Send</span></button>
           </form>
           <div class="cs-newsletter_text">At vero eos et accusamus et iusto odio as part dignissimos ducimus qui blandit.</div>
         </div>
@@ -81,89 +79,134 @@
     </div>
   </div>
   <!-- End Header Section -->
+
   <!-- Start Hero -->
-  <div class="cs-page_heading cs-style1 cs-center text-center cs-bg" data-src="assets/img/about_hero_bg.jpeg">
+  <div class="cs-page_heading cs-style1 cs-center text-center cs-bg" data-src="assets/img/service_hero_bg.jpeg">
     <div class="container">
       <div class="cs-page_heading_in">
-        <h1 class="cs-page_title cs-font_50 cs-white_color">About Us</h1>
+        <h1 class="cs-page_title cs-font_50 cs-white_color">Services</h1>
         <ol class="breadcrumb text-uppercase">
-          <li class="breadcrumb-item">
-            <a href="index.html">Home</a>
-          </li>
-          <li class="breadcrumb-item active">About Us</li>
+          <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+          <li class="breadcrumb-item active">Services</li>
         </ol>
       </div>
     </div>
   </div>
   <!-- End Hero -->
   <div class="cs-height_150 cs-height_lg_80"></div>
-  <section>
+  <!-- Start Service Section -->
+  <section class="cs-shape_wrap_4 cs-parallax">
+    <div class="cs-shape_4 cs-to_up"></div>
+    <div class="cs-shape_4 cs-to_right"></div>
     <div class="container">
       <div class="row">
-        <div class="col-xl-5 col-lg-7">
+        <div class="col-xl-4">
           <div class="cs-section_heading cs-style1">
-            <h3 class="cs-section_subtitle">About Our Agency</h3>
-            <h2 class="cs-section_title">Your trusted partner <br>for business </h2>
-            <div class="cs-height_30 cs-height_lg_20"></div>
-            <p class="cs-m0">This is the main factor that sets us apart from our competition and allows us to deliver a specialist business consultancy service. Our team applies its wide-ranging experience to determining. Through our years of experience, we’ve also learned that while each channel.</p>
-            <div class="cs-height_30 cs-height_lg_30"></div>
-            <div class="cs-separator cs-accent_bg"></div>
-            <div class="cs-height_25 cs-height_lg_40"></div>
+            <h3 class="cs-section_subtitle">What Can We Do</h3>
+            <h2 class="cs-section_title">Services we can help you with</h2>
           </div>
+          <div class="cs-height_90 cs-height_lg_45"></div>
         </div>
-        <div class="col-lg-5 offset-xl-2">
-          <img src="assets/img/about_img_1.jpeg" alt="Thumb" class="w-100 cs-radius_15">
-          <div class="cs-height_25 cs-height_lg_25"></div>
-        </div>
-        <div class="col-lg-7">
-          <img src="assets/img/about_img_2.jpeg" alt="Thumb" class="w-100 cs-radius_15">
-          <div class="cs-height_25 cs-height_lg_25"></div>
-        </div>
-        <div class="col-lg-5">
-          <img src="assets/img/about_img_3.jpeg" alt="Thumb" class="w-100 cs-radius_15">
-          <div class="cs-height_25 cs-height_lg_25"></div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <div class="cs-height_75 cs-height_lg_55"></div>
-  <!-- Start FunFact -->
-  <div class="cs-height_150 cs-height_lg_80"></div>
-
-  <?php include 'includes/components/our_expertise.php'; ?>
-
-  <!-- End FunFact -->
-  <div class="cs-height_150 cs-height_lg_80"></div>
-  <!-- Start Why Choose -->
-  <section>
-    <div class="container">
-      <div class="row">
-        <div class="col-xl-5 col-lg-6">
-          <div class="cs-image_layer cs-style1">
-            <div class="cs-image_layer_in">
-              <img src="assets/img/about_img_4.jpeg" alt="Image" class="w-100 cs-radius_15">
+        <div class="col-xl-8">
+          <div class="row">
+            <div class="col-lg-3 col-sm-6 cs-hidden_mobile"></div>
+            <div class="col-lg-3 col-sm-6">
+              <div class="cs-hobble">
+                <a href="service-details.html" class="cs-card cs-style1 cs-hover_layer1">
+                  <img src="assets/img/service_1.jpeg" alt="Service">
+                  <div class="cs-card_overlay"></div>
+                  <div class="cs-card_info">
+                    <span class=" cs-hover_layer3 cs-accent_bg"></span>
+                    <h2 class="cs-card_title">UI/UX design</h2>
+                  </div>
+                </a>
+              </div>
+              <div class="cs-height_0 cs-height_lg_30"></div>
+            </div>
+            <div class="col-lg-3 col-sm-6 cs-hidden_mobile"></div>
+            <div class="col-lg-3 col-sm-6">
+              <div class="cs-hobble">
+                <a href="service-details.html" class="cs-card cs-style1 cs-hover_layer1">
+                  <img src="assets/img/service_2.jpeg" alt="Service">
+                  <div class="cs-card_overlay"></div>
+                  <div class="cs-card_info">
+                    <span class=" cs-hover_layer3 cs-accent_bg"></span>
+                    <h2 class="cs-card_title">React.js Development</h2>
+                  </div>
+                </a>
+              </div>
+              <div class="cs-height_0 cs-height_lg_30"></div>
+            </div>
+            <div class="col-lg-3 col-sm-6">
+              <div class="cs-hobble">
+                <a href="service-details.html" class="cs-card cs-style1 cs-hover_layer1">
+                  <img src="assets/img/service_3.jpeg" alt="Service">
+                  <div class="cs-card_overlay"></div>
+                  <div class="cs-card_info">
+                    <span class=" cs-hover_layer3 cs-accent_bg"></span>
+                    <h2 class="cs-card_title">Digital Marketing</h2>
+                  </div>
+                </a>
+              </div>
+              <div class="cs-height_0 cs-height_lg_30"></div>
+            </div>
+            <div class="col-lg-3 col-sm-6 cs-hidden_mobile"></div>
+            <div class="col-lg-3 col-sm-6">
+              <div class="cs-hobble">
+                <a href="service-details.html" class="cs-card cs-style1 cs-hover_layer1">
+                  <img src="assets/img/service_4.jpeg" alt="Service">
+                  <div class="cs-card_overlay"></div>
+                  <div class="cs-card_info">
+                    <span class=" cs-hover_layer3 cs-accent_bg"></span>
+                    <h2 class="cs-card_title">Technology</h2>
+                  </div>
+                </a>
+              </div>
+              <div class="cs-height_0 cs-height_lg_30"></div>
+            </div>
+            <div class="col-lg-3 col-sm-6 cs-hidden_mobile"></div>
+            <div class="col-lg-3 col-sm-6 cs-hidden_mobile"></div>
+            <div class="col-lg-3 col-sm-6">
+              <div class="cs-hobble">
+                <a href="service-details.html" class="cs-card cs-style1 cs-hover_layer1">
+                  <img src="assets/img/service_5.jpeg" alt="Service">
+                  <div class="cs-card_overlay"></div>
+                  <div class="cs-card_info">
+                    <span class=" cs-hover_layer3 cs-accent_bg"></span>
+                    <h2 class="cs-card_title">Consultancy</h2>
+                  </div>
+                </a>
+              </div>
+              <div class="cs-height_0 cs-height_lg_30"></div>
+            </div>
+            <div class="col-lg-3 col-sm-6 cs-hidden_mobile"></div>
+            <div class="col-lg-3 col-sm-6">
+              <div class="cs-hobble">
+                <a href="service-details.html" class="cs-card cs-style1 cs-hover_layer1">
+                  <img src="assets/img/service_6.jpeg" alt="Service">
+                  <div class="cs-card_overlay"></div>
+                  <div class="cs-card_info">
+                    <span class=" cs-hover_layer3 cs-accent_bg"></span>
+                    <h2 class="cs-card_title">Creative Design</h2>
+                  </div>
+                </a>
+              </div>
+              <div class="cs-height_0 cs-height_lg_30"></div>
             </div>
           </div>
-          <div class="cs-height_0 cs-height_lg_40"></div>
-        </div>
-        <div class="col-xl-5 offset-xl-1 col-lg-6">
-          <div class="cs-section_heading cs-style1">
-            <h3 class="cs-section_subtitle">Why Choose Us</h3>
-            <h2 class="cs-section_title">Highly experienced pepole with us</h2>
-            <div class="cs-height_30 cs-height_lg_20"></div>
-            <p class="cs-m0">This is the main factor that sets us apart from our competition and allows us to deliver a specialist business consultancy service. Our team applies its wide-ranging experience to determining. Through our years of experience, we’ve also learned that while each channel.</p>
-            <div class="cs-height_15 cs-height_lg_15"></div>
-            <p class="cs-m0">This is the main factor that sets us apart from our competition and allows us to deliver a specialist business consultancy service. Our team applies its wide-ranging experience to determining.</p>
-            <div class="cs-height_30 cs-height_lg_30"></div>
-            <div class="cs-separator cs-accent_bg"></div>
-            <div class="cs-height_25 cs-height_lg_0"></div>
-          </div>
         </div>
       </div>
     </div>
   </section>
-  <!-- End Why Choose -->
-  <div class="cs-height_145 cs-height_lg_80"></div>
+  <!-- End Service Section -->
+  <div class="cs-height_150 cs-height_lg_50"></div>
+
+  <div class="cs-height_125 cs-height_lg_55"></div>
+  <!-- Start Testimonial Section -->
+  <?php include 'includes/components/testimonials.php'; ?>
+  <!-- End Testimonial Section -->
+  <div class="cs-height_150 cs-height_lg_80"></div>
+  
   <?php include 'includes/components/cta_footer.php'; ?>
   <?php include 'includes/layouts/footer.php'; ?>
 </body>
