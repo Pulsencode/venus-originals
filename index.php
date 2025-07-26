@@ -20,7 +20,7 @@
                 <div class="cs-hero_info">
                     <div>
                         <a href="contact.html" class="cs-text_btn">
-                            <span>Get a Quote</span>
+                            <span>Start Your Story</span>
                             <svg width="26" height="12" viewBox="0 0 26 12" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path
                                     d="M25.5303 6.53033C25.8232 6.23744 25.8232 5.76256 25.5303 5.46967L20.7574 0.696699C20.4645 0.403806 19.9896 0.403806 19.6967 0.696699C19.4038 0.989593 19.4038 1.46447 19.6967 1.75736L23.9393 6L19.6967 10.2426C19.4038 10.5355 19.4038 11.0104 19.6967 11.3033C19.9896 11.5962 20.4645 11.5962 20.7574 11.3033L25.5303 6.53033ZM0 6.75H25V5.25H0V6.75Z"
@@ -29,8 +29,7 @@
                         </a>
                     </div>
                     <div>
-                        <div class="cs-hero_subtitle"> We craft visually stunning motion graphics, 3D&2D animation, CGI & AI ads
-                            that captivate audiences and elevate your brand. Let’s turn imagination into reality</div>
+                        <div class="cs-hero_subtitle"> We create motion experiences that resonate — 3D & 2D animation, CGI, and AI visuals that bring emotion, story, and innovation together. Let's turn your boldest ideas into powerful visual realities</div>
                     </div>
                 </div>
             </div>
@@ -58,7 +57,7 @@
                 <div class="col-xl-4">
                     <div class="cs-section_heading cs-style1">
                         <h3 class="cs-section_subtitle">What Can We Do</h3>
-                        <h2 class="cs-section_title">Services we can help you with</h2>
+                        <h2 class="cs-section_title">Crafting Visual Magic for Bold Brands</h2>
                         <div class="cs-height_45 cs-height_lg_20"></div>
                         <a href="service.html" class="cs-text_btn wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s">
                             <span>See All Services</span>
@@ -76,7 +75,7 @@
                         <div class="col-lg-3 col-sm-6 mt-2">
                             <div class="cs-hobble">
                                 <a href="service-details.html" class="cs-card cs-style1 cs-hover_layer1">
-                                    <img src="assets/img/service_1.jpeg" alt="Service">
+                                    <img src="assets/img/services/Motion Graphics.jpg" alt="Service">
                                     <div class="cs-card_overlay"></div>
                                     <div class="cs-card_info">
                                         <span class="cs-hover_layer3 cs-accent_bg"></span>
@@ -86,7 +85,7 @@
                             </div>
                             <div class="cs-height_0 cs-height_lg_30 mt-2">
                                 <a href="service-details.html" class="cs-card cs-style1 cs-hover_layer1">
-                                    <img src="assets/img/service_1.jpeg" alt="Service">
+                                    <img src="assets/img/services/3D.jpg" alt="Service">
                                     <div class="cs-card_overlay"></div>
                                     <div class="cs-card_info">
                                         <span class="cs-hover_layer3 cs-accent_bg"></span>
@@ -98,7 +97,7 @@
                         <div class="col-lg-3 col-sm-6 mt-2">
                             <div class="cs-hobble">
                                 <a href="service-details.html" class="cs-card cs-style1 cs-hover_layer1">
-                                    <img src="assets/img/service_1.jpeg" alt="Service">
+                                    <img src="assets/img/services/CGI.jpg" alt="Service">
                                     <div class="cs-card_overlay"></div>
                                     <div class="cs-card_info">
                                         <span class="cs-hover_layer3 cs-accent_bg"></span>
@@ -108,7 +107,7 @@
                             </div>
                             <div class="cs-height_0 cs-height_lg_30 mt-2">
                                 <a href="service-details.html" class="cs-card cs-style1 cs-hover_layer1">
-                                    <img src="assets/img/service_1.jpeg" alt="Service">
+                                    <img src="assets/img/services/AI.jpg" alt="Service">
                                     <div class="cs-card_overlay"></div>
                                     <div class="cs-card_info">
                                         <span class="cs-hover_layer3 cs-accent_bg"></span>
@@ -120,7 +119,7 @@
                         <div class="col-lg-3 col-sm-6 mt-2">
                             <div class="cs-hobble">
                                 <a href="service-details.html" class="cs-card cs-style1 cs-hover_layer1">
-                                    <img src="assets/img/service_1.jpeg" alt="Service">
+                                    <img src="assets/img/services/2D.jpg" alt="Service">
                                     <div class="cs-card_overlay"></div>
                                     <div class="cs-card_info">
                                         <span class="cs-hover_layer3 cs-accent_bg"></span>
@@ -128,22 +127,22 @@
                                     </div>
                                 </a>
                             </div>
-                            <div class="cs-height_0 cs-height_lg_30 mt-2">
+                            <!-- <div class="cs-height_0 cs-height_lg_30 mt-2">
                                 <a href="service-details.html" class="cs-card cs-style1 cs-hover_layer1">
-                                    <img src="assets/img/service_1.jpeg" alt="Service">
+                                    <img src="assets/img/services/" alt="Service">
                                     <div class="cs-card_overlay"></div>
                                     <div class="cs-card_info">
                                         <span class="cs-hover_layer3 cs-accent_bg"></span>
                                         <h2 class="cs-card_title">Advertising & Branding</h2>
                                     </div>
                                 </a>
-                            </div>
+                            </div> -->
                         </div>
 
-                        <div class="col-lg-3 col-sm-6 mt-2">
+                        <!-- <div class="col-lg-3 col-sm-6 mt-2">
                             <div class="cs-hobble">
                                 <a href="service-details.html" class="cs-card cs-style1 cs-hover_layer1">
-                                    <img src="assets/img/service_3.jpeg" alt="Service">
+                                    <img src="assets/img/services/" alt="Service">
                                     <div class="cs-card_overlay"></div>
                                     <div class="cs-card_info">
                                         <span class="cs-hover_layer3 cs-accent_bg"></span>
@@ -152,7 +151,7 @@
                                 </a>
                             </div>
                             <div class="cs-height_0 cs-height_lg_30"></div>
-                        </div>
+                        </div> -->
                         <div class="col-lg-3 col-sm-6 cs-hidden_mobile"></div>
                     </div>
                 </div>
@@ -221,7 +220,7 @@
                 <div class="cs-shape_1"></div>
                 <div class="cs-shape_1"></div>
                 <div class="cs-cta_in">
-                    <h2 class="cs-cta_title cs-semi_bold cs-m0"> Let’s disscuse make <br>something <i>cool</i> together </h2>
+                    <h2 class="cs-cta_title cs-semi_bold cs-m0"> Let's bring your wildest ideas to life <br>— together</h2>
                     <div class="cs-height_70 cs-height_lg_30"></div>
                     <a href="contact.html" class="cs-text_btn wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s">
                         <span>Apply For Meeting</span>

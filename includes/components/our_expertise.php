@@ -5,15 +5,14 @@
             <div class="cs-funfact_left">
                 <div class="cs-funfact_heading">
                     <h2>Our Expertise</h2>
-                    <p> Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium doloremque laudantium, totam rem
-                        aperiam, eaque ipsa quae ab illo inventore veritatis. </p>
+                    <p> Not just animation — we build visual moments that spark emotion, drive attention, and amplify stories</p>
                 </div>
             </div>
             <div class="cs-funfact_right">
                 <div class="cs-funfacts">
                     <div class="cs-funfact cs-style1">
                         <div class="cs-funfact_number cs-primary_font cs-semi_bold cs-primary_color">
-                            <span data-count-to="40" class="odometer"></span>K
+                            <span data-count-to="15" class="odometer"></span>K
                         </div>
                         <div class="cs-funfact_text">
                             <span class="cs-accent_color">+</span>
@@ -22,7 +21,7 @@
                     </div>
                     <div class="cs-funfact cs-style1">
                         <div class="cs-funfact_number cs-primary_font cs-semi_bold cs-primary_color">
-                            <span data-count-to="10" class="odometer"></span>
+                            <span data-count-to="5" class="odometer"></span>
                         </div>
                         <div class="cs-funfact_text">
                             <span class="cs-accent_color">+</span>
@@ -31,7 +30,7 @@
                     </div>
                     <div class="cs-funfact cs-style1">
                         <div class="cs-funfact_number cs-primary_font cs-semi_bold cs-primary_color">
-                            <span data-count-to="245" class="odometer"></span>
+                            <span data-count-to="150" class="odometer"></span>
                         </div>
                         <div class="cs-funfact_text">
                             <span class="cs-accent_color">+</span>
@@ -40,7 +39,7 @@
                     </div>
                     <div class="cs-funfact cs-style1">
                         <div class="cs-funfact_number cs-primary_font cs-semi_bold cs-primary_color">
-                            <span data-count-to="550" class="odometer"></span>
+                            <span data-count-to="198" class="odometer"></span>
                         </div>
                         <div class="cs-funfact_text">
                             <span class="cs-accent_color">+</span>

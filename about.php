@@ -151,9 +151,9 @@
             <h3 class="cs-section_subtitle">Why Choose Us</h3>
             <h2 class="cs-section_title">Highly experienced pepole with us</h2>
             <div class="cs-height_30 cs-height_lg_20"></div>
-            <p class="cs-m0">This is the main factor that sets us apart from our competition and allows us to deliver a specialist business consultancy service. Our team applies its wide-ranging experience to determining. Through our years of experience, we’ve also learned that while each channel.</p>
+            <p class="cs-m0">At Venus Originals, we don’t just deliver animations — we craft visual experiences. From concept to final render, our team blends creativity with technical precision to tell stories that resonate. With cutting-edge tools, an agile mindset, and a passion for perfection, we turn imagination into impact.</p>
             <div class="cs-height_15 cs-height_lg_15"></div>
-            <p class="cs-m0">This is the main factor that sets us apart from our competition and allows us to deliver a specialist business consultancy service. Our team applies its wide-ranging experience to determining.</p>
+            <p class="cs-m0">Whether it's 2D, 3D, CGI, or AI-powered visuals — we bring your ideas to life with style, speed, and storytelling at the core.</p>
             <div class="cs-height_30 cs-height_lg_30"></div>
             <div class="cs-separator cs-accent_bg"></div>
             <div class="cs-height_25 cs-height_lg_0"></div>
