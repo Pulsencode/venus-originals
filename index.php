@@ -194,19 +194,19 @@
     <div class="container">
         <div class="cs-partner_logo_wrap">
             <div class="cs-partner_logo">
-                <img src="assets/img/partner_1.svg" alt="Partner">
+                <img src="assets/img/partners/partner (1).png" alt="Partner">
             </div>
             <div class="cs-partner_logo">
-                <img src="assets/img/partner_2.svg" alt="Partner">
+                <img src="assets/img/partners/partner (2).png" alt="Partner">
             </div>
             <div class="cs-partner_logo">
-                <img src="assets/img/partner_3.svg" alt="Partner">
+                <img src="assets/img/partners/partner (3).png" alt="Partner">
             </div>
             <div class="cs-partner_logo">
-                <img src="assets/img/partner_4.svg" alt="Partner">
+                <img src="assets/img/partners/partner (4).png" alt="Partner">
             </div>
             <div class="cs-partner_logo">
-                <img src="assets/img/partner_5.svg" alt="Partner">
+                <img src="assets/img/partners/partner (5).png" alt="Partner">
             </div>
         </div>
     </div>

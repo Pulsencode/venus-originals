@@ -6,7 +6,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="cs-footer_item">
                         <div class="cs-text_widget">
-                            <img src="assets/img/footer_logo.svg" alt="Thumb">
+                            <img src="assets/img/logo.png" alt="Thumb">
                             <p> Welcome to arino sed ut perspiciae omunde omnis iste natus error sitort voluptatem accusantium. </p>
                         </div>
                         <div class="cs-social_btns cs-style1">
